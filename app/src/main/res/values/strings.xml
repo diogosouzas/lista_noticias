@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projeto Notícias</string>
+    <string name="editar">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="titulo">Título</string>
+    <string name="escreva_seu_texto">Digite seu texto…</string>
+    <string name="salvar">Salvar</string>
+</resources>
